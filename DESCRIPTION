@@ -6,12 +6,6 @@ Authors@R:
          family = "Weng",
          email="isabelweng@gmail.com",
          role = c("aut", "cre"))
-  person(given = "Jason",
-         family = "Vargo",
-         role = c("aut", "cre"))
-  person(given = "David",
-         family = "Parr",
-         role = c("ctb"))
 Description: What the package does (one paragraph).
 License: What license is it under?
 Imports: 
